@@ -5,6 +5,7 @@ Project Overview
 This project documents the setup and initial network verification of a Kali Linux virtual machine running in Oracle VirtualBox. The lab provides a foundation for learning networking concepts and practising ethical hacking and penetration testing in an authorised environment.
 
 The initial verification covered network interface configuration, IPv4 addressing, routing, IP connectivity, and DNS resolution.
+
 Tools and Technologies
 
 * Oracle VirtualBox: Used to run the Kali Linux virtual machine.
