@@ -1,4 +1,5 @@
 Network Cybersecurity Lab
+
 Project Overview
 
 This project documents the setup and initial network verification of a Kali Linux virtual machine running in Oracle VirtualBox. The lab provides a foundation for learning networking concepts and practising ethical hacking and penetration testing in an authorised environment.
