@@ -5,8 +5,8 @@ Virtual lab setup for ethical hacking and penetration testing as part of my Netw
 ### Virtual Machine Setup
 
 ![Virtual machine setup](screenshots/kalilab.png)
-
-[View all lab screenshots](screenshots/kali-network-configuration.png)
+![Kali Linux Network Configuration](screenshots/kali-network-configuration.png)
+[View all lab screenshots](screenshots/)
 Lab Setup
 
 Kali Linux Network Configuration
