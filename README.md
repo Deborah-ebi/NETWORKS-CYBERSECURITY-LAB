@@ -40,7 +40,7 @@ Routing verification	ip route	Default gateway and local subnet route identified
 Supporting visual evidence is available in the screenshots folder.
 
 Routing Table and Default Gateway Verification
-![Kali Linux Routing Table](screenshots/kali-ip-route.png)
+![Kali IP Route](screenshots/kali%20ip%20route.png)
 
 The screenshot shows the Kali Linux virtual machine’s routing table, including the default gateway (10.0.0.1) and the local subnet routes (10.0.0.0/24) associated with the configured IPv4 addresses.
 
