@@ -38,3 +38,11 @@ DNS resolution	ping -c 4 google.com	Passed — 4 packets received, 0% packet los
 Routing verification	ip route	Default gateway and local subnet route identified
 
 Supporting visual evidence is available in the screenshots folder.
+
+Learning Outcomes
+
+* Identified the primary and secondary IPv4 addresses assigned to the Kali Linux network interface.
+* Inspected the default gateway and local subnet route using ip route.
+* Verified IP connectivity using ping.
+* Confirmed DNS resolution by pinging a domain name.
+* Documented network configuration and test results with supporting screenshots.
