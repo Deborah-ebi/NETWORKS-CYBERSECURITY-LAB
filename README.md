@@ -52,6 +52,7 @@ Learning Outcomes
 * Confirmed DNS resolution by pinging a domain name.
 * Documented network configuration and test results with supporting screenshots.
 
-* Disclaimer
+
+  Disclaimer
 
 This repository documents educational networking and cybersecurity lab activities conducted in a controlled environment. All security testing should be performed only on systems you own or have explicit permission to assess.
