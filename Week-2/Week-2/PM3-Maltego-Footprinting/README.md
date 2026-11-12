@@ -1,3 +1,7 @@
+## Evidence
+
+![Maltego Footprinting Graph](Maltego%20lab%20Excersise)
+
 W2-PM3: MALTEGO-BASED FOOTPRINTING
 
 1. Overview
