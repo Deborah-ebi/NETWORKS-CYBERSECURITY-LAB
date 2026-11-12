@@ -31,6 +31,7 @@ WhatWeb identifies technologies used by a website, such as content management sy
 ### NSLookup Evidence
 
 ![NSLookup Results](nslookup%20result.png)
+
 Purpose:
 
 NSLookup queries the Domain Name System (DNS) to obtain information such as the IP address associated with a domain.
