@@ -1,8 +1,3 @@
-## Evidence
-
-![WHOIS footprinting result](whois%20networkwalks%201.png)
-W2-PM1: FOOTPRINTING WITH MULTIPLE KALI LINUX TOOLS
-
 1. Overview
 
 This exercise involved using six Kali Linux tools to perform footprinting and information gathering against the Networkwalks website (networkwalks.com).
