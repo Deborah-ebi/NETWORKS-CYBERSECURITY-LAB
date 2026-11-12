@@ -1,3 +1,13 @@
+## Evidence
+
+### 1. Baidu Source Search
+
+![theHarvester Baidu Results](theHarvester%20Search%20result%20for%20Networkwalks.png)
+
+### 2. All Sources Search
+
+![theHarvester All Sources Results](theHarvester%20-b%20all%20santised.jpeg)
+
 W2-PM4: THEHARVESTER-BASED FOOTPRINTING
 
 1. Overview
@@ -33,7 +43,7 @@ theHarvester -d microsoft.com -l 50 -b all
 
 Explanation:
 
-* -d microsoft.com: Specifies the target domain.
+* -d (target): Specifies the target domain.
 * -l 50: Sets the search limit to 50.
 * -b all: Requests information from all supported sources available to the tool.
 
