@@ -9,9 +9,13 @@ This exercise involved using six Kali Linux tools to perform footprinting and in
 
 The objective was to understand how different tools can collect publicly available information about a domain, examine its DNS configuration, identify web technologies, inspect HTTP response headers, and detect possible Web Application Firewall (WAF) protection.
 
-2. Tools and Commands Used
+2. Tools Used
 
 1. WHOIS
+
+## Evidence
+
+![WHOIS footprinting result](whois%20networkwalks%201.png)
 
 Purpose:
 
@@ -19,17 +23,28 @@ WHOIS retrieves publicly available domain registration information, which may in
 
 2. WhatWeb
 
+### WhatWeb Evidence
+
+![WhatWeb Results](whatweb%20networkwalks.png)
+
 Purpose:
 
 WhatWeb identifies technologies used by a website, such as content management systems, web servers, frameworks, and other technology indicators.
 
 3. NSLookup
 
+### NSLookup Evidence
+
+![NSLookup Results](nslookup%result.png)
 Purpose:
 
 NSLookup queries the Domain Name System (DNS) to obtain information such as the IP address associated with a domain.
 
 4. DNSRecon
+
+   ### DNSRecon Evidence
+
+![DNSRecon Results](dns%20-d%20result.png)
 
 Purpose:
 
@@ -37,11 +52,19 @@ DNSRecon performs DNS reconnaissance to identify DNS records and gather informat
 
 5. cURL
 
+### cURL Evidence
+
+![cURL Results](curl%20-l%20result.png)
+
 Purpose:
 
 cURL sends an HTTP request and retrieves the response headers without downloading the full webpage content. These headers can reveal information about server responses and HTTP security configurations.
 
 6. WAFW00F
+
+*Evidence:*
+
+![WAFW00F Scan Results](waf00f%20result%20firewalk%20for%20networkwalks.png)
 
 Purpose:
 
