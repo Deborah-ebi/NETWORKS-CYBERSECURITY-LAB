@@ -1,6 +1,6 @@
 ## Evidence
 
-![WHOIS footprinting result](whois%20Networkwalks%201)
+![WHOIS footprinting result](whois%20networkwalks%201)
 W2-PM1: FOOTPRINTING WITH MULTIPLE KALI LINUX TOOLS
 
 1. Overview
