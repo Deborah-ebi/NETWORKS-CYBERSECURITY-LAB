@@ -1,6 +1,6 @@
 ## Evidence
 
-![Maltego Footprinting Graph](Maltego%20lab%20Excersise%20.jpg)
+![Maltego Footprinting Graph](Maltego%20lab%20Exercise%20.jpg)
 
 W2-PM3: MALTEGO-BASED FOOTPRINTING
 
