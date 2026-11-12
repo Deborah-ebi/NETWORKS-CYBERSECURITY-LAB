@@ -1,6 +1,6 @@
 ## Evidence
 
-![Zenmap Network Scan Results](Zenmap%20sanitised%20scan)
+![Zenmap Network Scan Results](Zenmap%20sanitised%20scan.jpg)
 
 W2-PM5: ZENMAP-BASED NETWORK SCANNING
 
