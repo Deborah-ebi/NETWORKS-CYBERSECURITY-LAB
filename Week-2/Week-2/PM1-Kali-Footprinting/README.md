@@ -49,7 +49,7 @@ DNSRecon performs DNS reconnaissance to identify DNS records and gather informat
 
 ### cURL Evidence
 
-![cURL Results](curl%20-l%20result.png)
+![cURL Results](curl%20-I%20result.png)
 
 Purpose:
 
