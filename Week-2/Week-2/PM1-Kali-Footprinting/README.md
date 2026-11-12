@@ -1,10 +1,10 @@
-1. Overview
+## Overview
 
 This exercise involved using six Kali Linux tools to perform footprinting and information gathering against the Networkwalks website (networkwalks.com).
 
 The objective was to understand how different tools can collect publicly available information about a domain, examine its DNS configuration, identify web technologies, inspect HTTP response headers, and detect possible Web Application Firewall (WAF) protection.
 
-2. Tools Used
+## Tools Used
 
 1. WHOIS
 
