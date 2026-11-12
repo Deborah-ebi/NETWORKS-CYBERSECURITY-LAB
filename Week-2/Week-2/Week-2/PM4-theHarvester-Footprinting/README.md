@@ -6,7 +6,7 @@
 
 ### 2. All Sources Search
 
-![theHarvester All Sources Results](theHarvester%20-b%20all%20santised.jpeg)
+![theHarvester All Sources Results](theHarvester%20-b%20all%20santised.jpg)
 
 W2-PM4: THEHARVESTER-BASED FOOTPRINTING
 
