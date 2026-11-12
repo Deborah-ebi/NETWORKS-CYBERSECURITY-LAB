@@ -94,9 +94,9 @@ The exercise demonstrated how Maltego can be used to visualise relationships bet
 
 #### Commands Executed
 
-```bash
 theHarvester -d microsoft.com -l 1000 -b baidu
 theHarvester -d microsoft.com -l 50 -b all
+
 
 ## 6. Risk Analysis and Recommendations
 
