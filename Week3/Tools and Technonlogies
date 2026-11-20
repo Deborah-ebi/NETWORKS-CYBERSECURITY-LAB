@@ -1,0 +1,17 @@
+Tools and Technologies
+
+The following tools were used during the practical excercise-
+
+1. John the Ripper (JTR)
+
+A password security auditing tool used to test password hashes against possible password candidates.
+
+2. Networkwalks Hash Calculator
+
+Used to generate password hashes from input text.
+
+3. Networkwalks Password Cracker
+
+Used to perform password-cracking exercises on generated hashes.
+
+These tools provided practical exposure to password hashing and the process of evaluating password strength.
