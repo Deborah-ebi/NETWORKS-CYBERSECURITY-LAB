@@ -1,0 +1,11 @@
+The practical exercise was successfully completed, and the following observations were made:
+
+* Passwords were converted into hash values using the Networkwalks Hash Calculator.
+* The generated hashes were used as input for password-cracking exercises.
+* The Networkwalks Password Cracker successfully recovered the original passwords from the tested hashes.
+* John the Ripper (JTR) was also used to perform password-cracking exercises. I found it relatively easier to use during the practical.
+* The exercise demonstrated that passwords with weaker or predictable patterns can potentially be recovered through password-cracking techniques.
+
+Result: I successfully cracked the tested password hashes and recovered their corresponding original passwords.
+
+Screenshots of the practical activities and successful results are provided in the evidence folder.
