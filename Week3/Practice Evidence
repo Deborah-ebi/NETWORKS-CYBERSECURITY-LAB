@@ -6,19 +6,18 @@ The following screenshots provide evidence of the practical activities carried o
 * Password Cracking: Evidence of the password-cracking exercise performed using the Networkwalks Password Cracker.
 * John the Ripper: Evidence of the password-cracking exercise performed using John the Ripper (JTR).
 * Successful Password Recovery: Evidence showing the recovery of the original passwords from the tested hashes.
-
  ##Hash Calculator
 
-![Hash Calculator](screenshots/my%20hash%20calculator%20Networkwalks%20tool.png)
+![Hash Calculator](week3/my%20hash%20calculator%20Networkwalks%20tool.png)
 
-### 6.2 Password Cracker
+##Password Cracker
 
-![Password Cracker](screenshots/password1%20craked.png)
+![Password Cracker](week3/password1%20craked.png)
 
-### 6.3 John the Ripper
+###John the Ripper
 
-![John the Ripper](screenshots/john-the-ripper.png)
+![John the Ripper](week3/Johntheripper.png)
 
-### 6.4 Successful Password Recovery
+###Successful Password Recovery
 
-![Successful Password Recovery](screenshots/seen%20task%201%20done.png)
+![Successful Password Recovery](week3/seen%20task%201%20done.png)
