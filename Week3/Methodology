@@ -1,0 +1,7 @@
+The practical exercise involved the following activities:
+
+1. Password Hashing: Explored how plain-text passwords can be converted into hash values using the Networkwalks Hash Calculator.
+2. Hash Analysis: Examined the generated hash values to understand how password hashing represents input data.
+3. Password Cracking: Used the Networkwalks Password Cracker to explore how password hashes can be tested against possible password candidates.
+4. John the Ripper: Practised using John the Ripper (JTR) for password-cracking exercises and explored its functionality.
+5. Observation: Compared the tools and observed how they supported the password-hashing and cracking process.
